@@ -35,7 +35,7 @@ This script:
 ## 📦 Prerequisites
 
 1. **AWS CLI Installed**  
-   [Install the AWS CLI](https://github.com/Naveen15github/AWS-Resource-Reporter-Shell-Script-AWS-CLI/blob/64a097745ddc64cdce8a24118cfb1800711d3385/Screenshot%202025-09-16%20002803.png)
+   ![Install the AWS CLI](https://github.com/Naveen15github/AWS-Resource-Reporter-Shell-Script-AWS-CLI/blob/64a097745ddc64cdce8a24118cfb1800711d3385/Screenshot%202025-09-16%20002803.png)
 2. **AWS Credentials Configured**  
    ```bash
    aws configure
