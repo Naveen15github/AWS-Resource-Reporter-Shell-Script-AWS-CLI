@@ -35,7 +35,7 @@ This script:
 ## 📦 Prerequisites
 
 1. **AWS CLI Installed**  
-   [Install the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+   [Install the AWS CLI](https://github.com/Naveen15github/AWS-Resource-Reporter-Shell-Script-AWS-CLI/blob/64a097745ddc64cdce8a24118cfb1800711d3385/Screenshot%202025-09-16%20002803.png)
 2. **AWS Credentials Configured**  
    ```bash
    aws configure
@@ -65,7 +65,9 @@ Run the script:
 
 **Example Output:**
 
-![Example Terminal Output](assets/example-output.png)
+![Example Terminal Output](https://github.com/Naveen15github/AWS-Resource-Reporter-Shell-Script-AWS-CLI/blob/64a097745ddc64cdce8a24118cfb1800711d3385/Screenshot%20(41).png)
+![Example Terminal Output](https://github.com/Naveen15github/AWS-Resource-Reporter-Shell-Script-AWS-CLI/blob/64a097745ddc64cdce8a24118cfb1800711d3385/Screenshot%20(42).png)
+![Example Terminal Output](https://github.com/Naveen15github/AWS-Resource-Reporter-Shell-Script-AWS-CLI/blob/64a097745ddc64cdce8a24118cfb1800711d3385/Screenshot%20(43).png)
 
 ```
 ================ AWS S3 Buckets ================
@@ -89,7 +91,7 @@ dev-user
 
 ## 🧠 How It Works
 
-![Architecture Diagram](assets/architecture-diagram.png)
+![Architecture Diagram](https://github.com/Naveen15github/AWS-Resource-Reporter-Shell-Script-AWS-CLI/blob/64a097745ddc64cdce8a24118cfb1800711d3385/IMG_4892.PNG)
 
 ```bash
 #!/bin/bash
